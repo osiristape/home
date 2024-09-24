@@ -145,6 +145,7 @@ a.link:hover {
 header {
     background: url('header-bg.jpg') no-repeat center center;
     background-size: cover;
+    /*background-color: #f4f4f4;*/
   }
 
 /*gradient*/
